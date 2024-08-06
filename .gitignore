@@ -75,3 +75,15 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows
+
+
+# HUGO
+archetypes
+assets
+config.toml
+content
+data
+layouts
+resources
+static
+themes

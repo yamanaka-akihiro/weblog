@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 身辺雑記</title>
+    <link>https://weblog.yamanaka.dev/post/</link>
+    <description>Recent content in Posts on 身辺雑記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2024 12:00:00 +0900</lastBuildDate><atom:link href="https://weblog.yamanaka.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>テスト</title>
+      <link>https://weblog.yamanaka.dev/post/misc-initial/</link>
+      <pubDate>Tue, 06 Aug 2024 12:00:00 +0900</pubDate>
+      
+      <guid>https://weblog.yamanaka.dev/post/misc-initial/</guid>
+      <description>test article.</description>
+    </item>
+    
+  </channel>
+</rss>

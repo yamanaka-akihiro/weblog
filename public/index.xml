@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>身辺雑記 on 身辺雑記 </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://weblog.yamanaka.dev/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 06 Aug 2024 12:00:00 JST</updated>
+    
+    <item>
+      <title>テスト</title>
+      <link>https://weblog.yamanaka.dev/post/misc-initial/</link>
+      <pubDate>Tue, 06 Aug 2024 12:00:00 JST</pubDate>
+      
+      <guid>https://weblog.yamanaka.dev/post/misc-initial/</guid>
+      <description>test article.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://weblog.yamanaka.dev/contact/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 JST</pubDate>
+      
+      <guid>https://weblog.yamanaka.dev/contact/</guid>
+      <description>mailto: akihiro[at]yamanaka.dev</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://weblog.yamanaka.dev/about/</link>
+      <pubDate>Sat, 08 Nov 2014 16:42:18 &#43;0400</pubDate>
+      
+      <guid>https://weblog.yamanaka.dev/about/</guid>
+      <description>T.B.D</description>
+    </item>
+    
+  </channel>
+</rss>
+

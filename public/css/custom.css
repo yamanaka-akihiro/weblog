@@ -1,0 +1,15 @@
+/* global */
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.w-700 {
+  font-weight: 700;
+}
+
+.site-wrap {
+  margin-bottom: -40px;
+}
